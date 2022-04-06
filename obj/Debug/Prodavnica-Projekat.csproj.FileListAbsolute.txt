@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\Prodavnica-Projekat\bin\Debug\Prodavnica-Projekat.exe.config
+C:\Users\Igor\source\repos\Prodavnica-Projekat\bin\Debug\Prodavnica-Projekat.exe
+C:\Users\Igor\source\repos\Prodavnica-Projekat\bin\Debug\Prodavnica-Projekat.pdb
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica-Projekat.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica_Projekat.Properties.Resources.resources
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica-Projekat.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica-Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica-Projekat.exe
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica-Projekat.pdb
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica_Projekat.Form1.resources
+C:\Users\Igor\source\repos\Prodavnica-Projekat\obj\Debug\Prodavnica_Projekat.Korpa.resources
